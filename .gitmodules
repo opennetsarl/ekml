@@ -2,3 +2,7 @@
 	path = onsp_free_bundle
 	url = ssh://git@gitlab.open-net.ch:26/ons/onsp_free_bundle.git
 	branch = 15.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = ssh://git@gitlab.open-net.ch:26/oca/partner-contact.git
+	branch = 15.0
