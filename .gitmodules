@@ -1,0 +1,4 @@
+[submodule "onsp_free_bundle"]
+	path = onsp_free_bundle
+	url = ssh://git@gitlab.open-net.ch:26/ons/onsp_free_bundle.git
+	branch = 15.0
