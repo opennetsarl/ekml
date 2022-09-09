@@ -18,3 +18,11 @@
 	path = account-financial-reporting
 	url = ssh://git@gitlab.open-net.ch:26/oca/account-financial-reporting.git
 	branch = 15.0
+[submodule "payroll"]
+	path = payroll
+	url = ssh://git@gitlab.open-net.ch:26/ons/payroll.git
+	branch = 15.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = ssh://git@gitlab.open-net.ch:26/oca/account-financial-tools.git
+	branch = 15.0
